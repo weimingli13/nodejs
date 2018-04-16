@@ -17,7 +17,11 @@ var server = http.createServer(function(request, response){
   var queryObject = parsedUrl.query
   var method = request.method
 
+<<<<<<< HEAD
   /******** 从这里开始看，上面不要看 这是我改过的文件************/
+=======
+  /******** 从这里开始看，上面不要看 ******2******/
+>>>>>>> c265bc354f82792f536e76e16fc3aadf1e837bec
 
 
 
